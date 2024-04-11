@@ -1,4 +1,4 @@
-How to integrate Golang Service with Chat GPT API.
+# How to integrate Golang Service with Chat GPT API.
 
 ## Intro
 In this tutorial we're going to create a Golang service that communicates with Chat GPT API. After watching this video you should be able to understand how to do it and change the logic for implementing your own use cases.
@@ -35,3 +35,9 @@ Response example:
    "example":"Given our limited resources, it may not be feasible to launch a new product at this time."
 }
 ```
+
+## Other materials:
+- introduction to openai api: https://platform.openai.com/docs/introduction
+- quick start with python: https://platform.openai.com/docs/quickstart?context=python
+- check token price: https://platform.openai.com/tokenizer
+- chat gpt api pricing: https://openai.com/pricing

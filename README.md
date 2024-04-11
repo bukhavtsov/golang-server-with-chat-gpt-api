@@ -20,7 +20,7 @@ Architecture will consist of 2 components:
 1. Specify env variables `CHAT_GPT_API_URL` and `CHAT_GPT_API_KEY`
 2. Start the server
 ```bash
-go run ./cmd/main.g
+go run ./cmd/main.go
 ```
 3. Test with curl
 ```curl

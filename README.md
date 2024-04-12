@@ -1,7 +1,7 @@
 # How to integrate Golang Service with Chat GPT API.
 
 ## Intro
-In this tutorial we're going to create a Golang service that communicates with Chat GPT API. After watching this video you should be able to understand how to do it and change the logic for implementing your own use cases.
+In this tutorial we're going to create a Golang service that communicates with Chat GPT API.
 
 ## Considerations
 For implementing solution we need to have:
